@@ -6,7 +6,7 @@ This is a minimal ROS 2 package that publishes a simple occupancy grid to reprod
 
 1. Clone the repository into your ROS workspace:
    ```bash
-   git clone https://github.com/iCaran/iCaran-SimpleRvizMapVisualizationTest.git
+   git clone https://github.com/iCaran/SimpleRvizMapVisualizationTest.git
    ```
 2. Build the workspace:
    ```bash
